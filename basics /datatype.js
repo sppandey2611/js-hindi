@@ -17,4 +17,6 @@ let state =null
     //symbol => unique
 
 //object 
+// conversion 
+let score =33
 
