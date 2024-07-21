@@ -46,3 +46,45 @@ const heroes =["shaktiman","nagraj","gabaar"]
 
  console.log(typeof bigNumber);// for check datatype of any variable 
  
+
+
+
+
+
+
+
+
+
+//************************************************************************************************************* */
+
+//memory
+//stack (primitive),Heap (non primitive )
+  
+let myyoutubename ="shivampandeydotcom"
+
+let anothername = myyoutubename
+anothername="ShivDevi"
+
+
+console.log(myyoutubename)
+console.log(anothername)
+let userOne={
+    email: "shivdevi@mail.com"
+    upi: "user@upi"
+}
+
+let useretwo =userOne
+
+useretwo.email="ram@.com"
+
+
+
+console.log(userOne.email)// ram@.com
+console.log(useretwo.email)//ram@.com
+
+
+
+
+
+
+
