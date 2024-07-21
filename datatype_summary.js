@@ -1,0 +1,48 @@
+//primitive
+
+// 7 types :string, number, boolean,null,undefined,symbol,bigInt
+
+
+const score =100
+const scorvalue =100.25
+
+
+const isLoggedIn =false
+const outsideTemp =null
+ let useEmail;
+ const id =symbol(`123`)
+
+ const anotherId = symbol(`123`)
+
+
+ console.log(Id=== anotherId);//false
+
+
+
+ const bigNumber = 214458879932352584756n
+
+
+
+
+// reference type:(non primitive)
+
+
+// array, objects,funtions
+
+
+const heroes =["shaktiman","nagraj","gabaar"]
+
+{
+
+    name: "shivam"
+    age: 20
+    height: 5.8
+}
+
+ const myFunction = funtion(){
+    console.log("hgello ! shivam this side");
+
+}
+
+ console.log(typeof bigNumber);// for check datatype of any variable 
+ 
