@@ -86,5 +86,8 @@ console.log(useretwo.email)//ram@.com
 
 
 
+//******************************************************************************************************* */
+  //string 
 
-
+  const name =" shivam"
+  const repoCount =23
