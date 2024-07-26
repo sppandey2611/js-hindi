@@ -39,7 +39,7 @@ const heroes =["shaktiman","nagraj","gabaar"]
     height: 5.8
 }
 
- const myFunction = funtion(){
+   const myFunction = funtion(),{
     console.log("hgello ! shivam this side");
 
 }
@@ -91,3 +91,12 @@ console.log(useretwo.email)//ram@.com
 
   const name =" shivam"
   const repoCount =23
+
+console.log (`hello my name is ${shivam} and my repo count is ${repoCount} `);
+const gameName =new String(`shivDevi`)
+console.log(gameName[1]);
+console.log(gameName.__proto__);
+
+
+
+
